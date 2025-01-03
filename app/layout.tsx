@@ -14,7 +14,7 @@ const geistMono = localFont({
   variable: "--font-geist-mono",
 });
 
-let title = "BlinkShot – Real-Time AI Image Generator";
+let title = "Gerador de imagens";
 let description = "Generate images with AI in a milliseconds";
 let url = "https://www.blinkshot.io/";
 let ogimage = "https://www.blinkshot.io/og-image.png";
